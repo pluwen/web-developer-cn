@@ -1,0 +1,1334 @@
+{
+   "about": {
+      "message": "About"
+   },
+   "aboutMenu": {
+      "message": "About..."
+   },
+   "action": {
+      "message": "Action"
+   },
+   "actions": {
+      "message": "Actions"
+   },
+   "add": {
+      "message": "Add"
+   },
+   "addCookie": {
+      "message": "Add Cookie"
+   },
+   "addCookieMenu": {
+      "message": "Add Cookie..."
+   },
+   "addHorizontalLineGuide": {
+      "message": "Add Horizontal Line Guide"
+   },
+   "addLabel": {
+      "message": "Add..."
+   },
+   "addResizeOption": {
+      "message": "Add Resize Option"
+   },
+   "addResponsiveLayout": {
+      "message": "Add Responsive Layout"
+   },
+   "addTool": {
+      "message": "Add Tool"
+   },
+   "addVerticalLineGuide": {
+      "message": "Add Vertical Line Guide"
+   },
+   "advanced": {
+      "message": "Advanced"
+   },
+   "alt": {
+      "message": "Alt"
+   },
+   "ancestors": {
+      "message": "Ancestors"
+   },
+   "anchor": {
+      "message": "Anchor"
+   },
+   "anchorInformation": {
+      "message": "Anchor Information"
+   },
+   "anchors": {
+      "message": "Anchors"
+   },
+   "atEndOfSession": {
+      "message": "At end of session"
+   },
+   "author": {
+      "message": "Author"
+   },
+   "beautifyJavaScript": {
+      "message": "Beautify JavaScript"
+   },
+   "brokenImage": {
+      "message": "broken image"
+   },
+   "brokenImages": {
+      "message": "Broken Images"
+   },
+   "buildDate": {
+      "message": "Build Date"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "cannotEdit": {
+      "message": "Cannot edit"
+   },
+   "cannotEditHTTPOnlyCookies": {
+      "message": "HttpOnly cookies cannot be edited."
+   },
+   "cannotEditLocalhostCookies": {
+      "message": "Cookies on a localhost domain cannot be edited. \u003Ca href=\"http://chrispederick.com/work/web-developer/help/#cookies-localhost\" class=\"alert-link\" target=\"_blank\">More information\u003C/a>"
+   },
+   "checkAllCheckboxes": {
+      "message": "Check All Checkboxes"
+   },
+   "checkAllCheckboxesMultipleResult": {
+      "message": "$count$ checkboxes checked.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "checkAllCheckboxesSingleResult": {
+      "message": "1 checkbox checked."
+   },
+   "children": {
+      "message": "Children"
+   },
+   "clear": {
+      "message": "Clear"
+   },
+   "clearCache": {
+      "message": "Clear Cache"
+   },
+   "clearCacheConfirmation": {
+      "message": "Are you sure you want to clear the cache?"
+   },
+   "clearCacheResult": {
+      "message": "The cache has been cleared."
+   },
+   "clearFormFields": {
+      "message": "Clear Form Fields"
+   },
+   "clearFormFieldsMultipleResult": {
+      "message": "Cleared form fields in $count$ forms.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "clearFormFieldsSingleResult": {
+      "message": "Cleared form fields in 1 form."
+   },
+   "clearHistory": {
+      "message": "Clear History"
+   },
+   "clearHistoryConfirmation": {
+      "message": "Are you sure you want to clear the history?"
+   },
+   "clearHistoryResult": {
+      "message": "The history has been cleared."
+   },
+   "clearRadioButtons": {
+      "message": "Clear Radio Buttons"
+   },
+   "clearRadioButtonsMultipleResult": {
+      "message": "$count$ radio buttons cleared.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "clearRadioButtonsSingleResult": {
+      "message": "1 radio button cleared."
+   },
+   "collapseAll": {
+      "message": "Collapse all"
+   },
+   "color": {
+      "message": "Color"
+   },
+   "colorInformation": {
+      "message": "Color Information"
+   },
+   "colorPicker": {
+      "message": "Color Picker"
+   },
+   "colors": {
+      "message": "Colors"
+   },
+   "content": {
+      "message": "Content"
+   },
+   "convertFormGetsToPosts": {
+      "message": "Convert Form GETs To POSTs"
+   },
+   "convertFormMethodsMultipleResult": {
+      "message": "$count$ forms converted to $method$s.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         },
+         "method": {
+            "content": "$2"
+         }
+      }
+   },
+   "convertFormMethodsSingleResult": {
+      "message": "1 form converted to a $method$.",
+      "placeholders": {
+         "method": {
+            "content": "$1"
+         }
+      }
+   },
+   "convertFormPostsToGets": {
+      "message": "Convert Form POSTs To GETs"
+   },
+   "convertSelectElementsToTextInputs": {
+      "message": "Convert Select Elements To Text Inputs"
+   },
+   "convertSelectElementsToTextInputsMultipleResult": {
+      "message": "$count$ select elements converted to text inputs.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "convertSelectElementsToTextInputsSingleResult": {
+      "message": "1 select element converted to a text input."
+   },
+   "convertTextInputsToTextareas": {
+      "message": "Convert Text Inputs To Textareas"
+   },
+   "convertTextInputsToTextareasMultipleResult": {
+      "message": "$count$ text inputs converted to textareas.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "convertTextInputsToTextareasSingleResult": {
+      "message": "1 text input converted to a textarea."
+   },
+   "cookie": {
+      "message": "Cookie"
+   },
+   "cookieAdded": {
+      "message": "The cookie '$name$' was added.",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "cookieDeleted": {
+      "message": "The cookie %S was deleted."
+   },
+   "cookieEdited": {
+      "message": "The cookie %S was edited."
+   },
+   "cookieInformation": {
+      "message": "Cookie Information"
+   },
+   "cookies": {
+      "message": "Cookies"
+   },
+   "couldNotLoadCSS": {
+      "message": "The CSS could not be loaded."
+   },
+   "couldNotLoadJavaScript": {
+      "message": "The JavaScript could not be loaded."
+   },
+   "couldNotLoadResponseHeaders": {
+      "message": "The response headers could not be loaded."
+   },
+   "css": {
+      "message": "CSS"
+   },
+   "dark": {
+      "message": "Dark"
+   },
+   "dashboard": {
+      "message": "Dashboard"
+   },
+   "delete": {
+      "message": "Delete"
+   },
+   "deleteConfirmation": {
+      "message": "Delete..."
+   },
+   "deleteCookie": {
+      "message": "Delete Cookie"
+   },
+   "deleteCookieConfirmation": {
+      "message": "Are you sure you want to delete the cookie %S?"
+   },
+   "deleteDomainCookies": {
+      "message": "Delete Domain Cookies"
+   },
+   "deleteDomainCookiesMultipleConfirmation": {
+      "message": "Are you sure you want to delete $count$ domain cookies?",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "deleteDomainCookiesMultipleResult": {
+      "message": "$count$ domain cookies deleted.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "deleteDomainCookiesNoneFound": {
+      "message": "There are 0 domain cookies to delete."
+   },
+   "deleteDomainCookiesSingleConfirmation": {
+      "message": "Are you sure you want to delete 1 domain cookie?"
+   },
+   "deleteDomainCookiesSingleResult": {
+      "message": "1 domain cookie deleted."
+   },
+   "deletePathCookies": {
+      "message": "Delete Path Cookies"
+   },
+   "deletePathCookiesMultipleConfirmation": {
+      "message": "Are you sure you want to delete $count$ path cookies?",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "deletePathCookiesMultipleResult": {
+      "message": "$count$ path cookies deleted.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "deletePathCookiesNoneFound": {
+      "message": "There are 0 path cookies to delete."
+   },
+   "deletePathCookiesSingleConfirmation": {
+      "message": "Are you sure you want to delete 1 path cookie?"
+   },
+   "deletePathCookiesSingleResult": {
+      "message": "1 path cookie deleted."
+   },
+   "deleteResizeOption": {
+      "message": "Delete Resize Option"
+   },
+   "deleteResizeOptionConfirmation": {
+      "message": "Are you sure you want to delete the '$option$' resize option?",
+      "placeholders": {
+         "option": {
+            "content": "$1"
+         }
+      }
+   },
+   "deleteResponsiveLayout": {
+      "message": "Delete Responsive Layout"
+   },
+   "deleteResponsiveLayoutConfirmation": {
+      "message": "Are you sure you want to delete the '$option$' responsive layout?",
+      "placeholders": {
+         "option": {
+            "content": "$1"
+         }
+      }
+   },
+   "deleteSessionCookies": {
+      "message": "Delete Session Cookies"
+   },
+   "deleteSessionCookiesMultipleConfirmation": {
+      "message": "Are you sure you want to delete $count$ session cookies?",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "deleteSessionCookiesMultipleResult": {
+      "message": "$count$ session cookies deleted.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "deleteSessionCookiesNoneFound": {
+      "message": "There are 0 session cookies to delete."
+   },
+   "deleteSessionCookiesSingleConfirmation": {
+      "message": "Are you sure you want to delete 1 session cookie?"
+   },
+   "deleteSessionCookiesSingleResult": {
+      "message": "1 session cookie deleted."
+   },
+   "deleteTool": {
+      "message": "Delete Tool"
+   },
+   "deleteToolConfirmation": {
+      "message": "Are you sure you want to delete the '$option$' tool?",
+      "placeholders": {
+         "option": {
+            "content": "$1"
+         }
+      }
+   },
+   "depth": {
+      "message": "Depth"
+   },
+   "description": {
+      "message": "Description"
+   },
+   "descriptionCannotBeEmpty": {
+      "message": "The description cannot be empty."
+   },
+   "descriptionPlaceholder": {
+      "message": "Enter a description"
+   },
+   "disable": {
+      "message": "Disable"
+   },
+   "disableAllStyles": {
+      "message": "Disable All Styles"
+   },
+   "disableBrowserDefaultStyles": {
+      "message": "Disable Browser Default Styles"
+   },
+   "disableCookies": {
+      "message": "Disable Cookies"
+   },
+   "disableCookiesResult": {
+      "message": "Cookies have been disabled."
+   },
+   "disableEmbeddedStyles": {
+      "message": "Disable Embedded Styles"
+   },
+   "disableImages": {
+      "message": "Disable Images"
+   },
+   "disableImagesResult": {
+      "message": "Images have been disabled."
+   },
+   "disableInlineStyles": {
+      "message": "Disable Inline Styles"
+   },
+   "disableJavaScript": {
+      "message": "Disable JavaScript"
+   },
+   "disableJavaScriptResult": {
+      "message": "JavaScript has been disabled."
+   },
+   "disableLinkedStyleSheets": {
+      "message": "Disable Linked Style Sheets"
+   },
+   "disableNotifications": {
+      "message": "Disable Notifications"
+   },
+   "disableNotificationsResult": {
+      "message": "Notifications have been disabled."
+   },
+   "disablePlugins": {
+      "message": "Disable Plugins"
+   },
+   "disablePluginsResult": {
+      "message": "Plugins have been disabled."
+   },
+   "disablePopups": {
+      "message": "Disable Popups"
+   },
+   "disablePopupsResult": {
+      "message": "Popups have been disabled."
+   },
+   "disablePrintStyles": {
+      "message": "Disable Print Styles"
+   },
+   "displayARIARoles": {
+      "message": "Display ARIA Roles"
+   },
+   "displayAbbreviations": {
+      "message": "Display Abbreviations"
+   },
+   "displayAccessKeys": {
+      "message": "Display Access Keys"
+   },
+   "displayAltAttributes": {
+      "message": "Display Alt Attributes"
+   },
+   "displayAnchors": {
+      "message": "Display Anchors"
+   },
+   "displayColorPicker": {
+      "message": "Display Color Picker"
+   },
+   "displayDivDimensions": {
+      "message": "Display Div Dimensions"
+   },
+   "displayDivOrder": {
+      "message": "Display Div Order"
+   },
+   "displayElementInformation": {
+      "message": "Display Element Information"
+   },
+   "displayFormDetails": {
+      "message": "Display Form Details"
+   },
+   "displayHandheldStyles": {
+      "message": "Display Handheld Styles"
+   },
+   "displayHiddenElements": {
+      "message": "Display Hidden Elements"
+   },
+   "displayHiddenElementsMultipleResult": {
+      "message": "$count$ hidden elements displayed.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "displayHiddenElementsSingleResult": {
+      "message": "1 hidden element displayed."
+   },
+   "displayIdClassDetails": {
+      "message": "Display Id &amp; Class Details"
+   },
+   "displayImageDimensions": {
+      "message": "Display Image Dimensions"
+   },
+   "displayImagePaths": {
+      "message": "Display Image Paths"
+   },
+   "displayLineGuides": {
+      "message": "Display Line Guides"
+   },
+   "displayLinkDetails": {
+      "message": "Display Link Details"
+   },
+   "displayObjectInformation": {
+      "message": "Display Object Information"
+   },
+   "displayOverlayWith": {
+      "message": "Display the overlay with"
+   },
+   "displayPasswords": {
+      "message": "Display Passwords"
+   },
+   "displayPasswordsMultipleResult": {
+      "message": "$count$ passwords displayed.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "displayPasswordsSingleResult": {
+      "message": "1 password displayed."
+   },
+   "displayPrintStyles": {
+      "message": "Display Print Styles"
+   },
+   "displayRuler": {
+      "message": "Display Ruler"
+   },
+   "displayStackLevels": {
+      "message": "Display Stack Levels"
+   },
+   "displayTabIndex": {
+      "message": "Display Tab Index"
+   },
+   "displayTableDepth": {
+      "message": "Display Table Depth"
+   },
+   "displayTableInformation": {
+      "message": "Display Table Information"
+   },
+   "displayTitleAttributes": {
+      "message": "Display Title Attributes"
+   },
+   "displayTopographicInformation": {
+      "message": "Display Topographic Information"
+   },
+   "displayWindowSize": {
+      "message": "Display Window Size"
+   },
+   "displayWindowSizeResult": {
+      "message": "Window: $outerWidth$px x $outerHeight$px &nbsp;&nbsp;&nbsp; Viewport: $innerWidth$px x $innerHeight$px",
+      "placeholders": {
+         "innerHeight": {
+            "content": "$4"
+         },
+         "innerWidth": {
+            "content": "$3"
+         },
+         "outerHeight": {
+            "content": "$2"
+         },
+         "outerWidth": {
+            "content": "$1"
+         }
+      }
+   },
+   "documentOutline": {
+      "message": "Document Outline"
+   },
+   "documents": {
+      "message": "Documents"
+   },
+   "dom": {
+      "message": "DOM"
+   },
+   "dragDropReorder": {
+      "message": "Drag and drop to re-order."
+   },
+   "duplicateId": {
+      "message": "duplicate id"
+   },
+   "duplicateIds": {
+      "message": "Duplicate Ids"
+   },
+   "edit": {
+      "message": "Edit..."
+   },
+   "editCSS": {
+      "message": "Edit CSS"
+   },
+   "editCookie": {
+      "message": "Edit Cookie"
+   },
+   "editResizeDimensions": {
+      "message": "Edit Resize Dimensions..."
+   },
+   "editResizeOption": {
+      "message": "Edit Resize Option"
+   },
+   "editResponsiveLayout": {
+      "message": "Edit Responsive Layout"
+   },
+   "editTool": {
+      "message": "Edit Tool"
+   },
+   "editTools": {
+      "message": "Edit Tools..."
+   },
+   "elementInformation": {
+      "message": "Element Information"
+   },
+   "elements": {
+      "message": "Elements"
+   },
+   "embeddedCSSFrom": {
+      "message": "Embedded CSS from"
+   },
+   "embeddedJavaScriptFrom": {
+      "message": "Embedded JavaScript from"
+   },
+   "embeddedStyles": {
+      "message": "Embedded Styles"
+   },
+   "enableAutoCompletion": {
+      "message": "Enable Auto Completion"
+   },
+   "enableAutoCompletionMultipleResult": {
+      "message": "Enabled auto completion for $count$ elements.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "enableAutoCompletionSingleResult": {
+      "message": "Enabled auto completion for 1 element."
+   },
+   "enableCookiesResult": {
+      "message": "Cookies have been enabled."
+   },
+   "enableFormFields": {
+      "message": "Enable Form Fields"
+   },
+   "enableFormFieldsMultipleResult": {
+      "message": "$count$ form fields enabled.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "enableFormFieldsSingleResult": {
+      "message": "1 form field enabled."
+   },
+   "enableImagesResult": {
+      "message": "Images have been enabled."
+   },
+   "enableJavaScriptResult": {
+      "message": "JavaScript has been enabled."
+   },
+   "enableNotificationsResult": {
+      "message": "Notifications have been enabled."
+   },
+   "enablePluginsResult": {
+      "message": "Plugins have been enabled."
+   },
+   "enablePopupsResult": {
+      "message": "Popups have been enabled."
+   },
+   "endPositionX": {
+      "message": "End Position: X ="
+   },
+   "expandAll": {
+      "message": "Expand all"
+   },
+   "expandSelectElements": {
+      "message": "Expand Select Elements"
+   },
+   "expandSelectElementsMultipleResult": {
+      "message": "$count$ select elements expanded.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "expandSelectElementsSingleResult": {
+      "message": "1 select element expanded."
+   },
+   "expires": {
+      "message": "Expires"
+   },
+   "expiresCannotBeEmpty": {
+      "message": "The expires date cannot be empty if this is not a session cookie."
+   },
+   "expiresNotValid": {
+      "message": "The expires date is not a valid date."
+   },
+   "expiresPlaceholder": {
+      "message": "Enter the expires date"
+   },
+   "extensionDescription": {
+      "message": "Adds a toolbar button with various web developer tools."
+   },
+   "extensionGalleryError": {
+      "message": "does not work on the Chrome Extension Gallery or Firefox Add-ons site. \u003Ca href=\"http://chrispederick.com/work/web-developer/help/#extension-gallery\" class=\"alert-link\" target=\"_blank\">More information\u003C/a>"
+   },
+   "extensionName": {
+      "message": "Web Developer"
+   },
+   "findBrokenImages": {
+      "message": "Find Broken Images"
+   },
+   "findDuplicateIds": {
+      "message": "Find Duplicate Ids"
+   },
+   "followOnTwitter": {
+      "message": "Follow on Twitter"
+   },
+   "form": {
+      "message": "Form"
+   },
+   "forms": {
+      "message": "Forms"
+   },
+   "from": {
+      "message": "From"
+   },
+   "general": {
+      "message": "General"
+   },
+   "heading": {
+      "message": "Heading"
+   },
+   "headings": {
+      "message": "Headings"
+   },
+   "height": {
+      "message": "Height"
+   },
+   "heightCannotBeEmpty": {
+      "message": "The height cannot be empty."
+   },
+   "heightNotValid": {
+      "message": "The height is not valid."
+   },
+   "heightPlaceholder": {
+      "message": "Enter the height in pixels"
+   },
+   "help": {
+      "message": "Help..."
+   },
+   "hideBackgroundImages": {
+      "message": "Hide Background Images"
+   },
+   "hideImages": {
+      "message": "Hide Images"
+   },
+   "host": {
+      "message": "Host"
+   },
+   "hostCannotBeEmpty": {
+      "message": "The host cannot be empty."
+   },
+   "hostCannotBeLocalhost": {
+      "message": "cannot add cookies on a localhost domain. \u003Ca href=\"http://chrispederick.com/work/web-developer/help/#cookies-localhost\">More information\u003C/a>"
+   },
+   "hostPlaceholder": {
+      "message": "Enter the host"
+   },
+   "hoverColor": {
+      "message": "Hover Color:"
+   },
+   "httpOnly": {
+      "message": "HttpOnly"
+   },
+   "icons": {
+      "message": "Icons"
+   },
+   "iconsText": {
+      "message": "Icons & text"
+   },
+   "id": {
+      "message": "Id"
+   },
+   "image": {
+      "message": "Image"
+   },
+   "images": {
+      "message": "Images"
+   },
+   "information": {
+      "message": "Information"
+   },
+   "internalBrowserPagesError": {
+      "message": "does not work on internal browser pages."
+   },
+   "javaScript": {
+      "message": "JavaScript"
+   },
+   "keyboard": {
+      "message": "Keyboard"
+   },
+   "label": {
+      "message": "Label"
+   },
+   "layout": {
+      "message": "Layout"
+   },
+   "layouts": {
+      "message": "Layouts"
+   },
+   "light": {
+      "message": "Light"
+   },
+   "lineGuides": {
+      "message": "Line Guides"
+   },
+   "linearizePage": {
+      "message": "Linearize Page"
+   },
+   "link": {
+      "message": "Link"
+   },
+   "linkInformation": {
+      "message": "Link Information"
+   },
+   "links": {
+      "message": "Links"
+   },
+   "makeFormFieldsWritable": {
+      "message": "Make Form Fields Writable"
+   },
+   "makeFormFieldsWritableMultipleResult": {
+      "message": "$count$ form fields made writable.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "makeFormFieldsWritableSingleResult": {
+      "message": "1 form field made writable."
+   },
+   "makeFramesResizable": {
+      "message": "Make Frames Resizable"
+   },
+   "makeFramesResizableMultipleResult": {
+      "message": "$count$ frames made resizable.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "makeFramesResizableSingleResult": {
+      "message": "1 frame made resizable."
+   },
+   "makeImagesFullSize": {
+      "message": "Make Images Full Size"
+   },
+   "makeImagesFullSizeMultipleResult": {
+      "message": "$count$ images made full size.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "makeImagesFullSizeSingleResult": {
+      "message": "1 image made full size."
+   },
+   "makeImagesInvisible": {
+      "message": "Make Images Invisible"
+   },
+   "markAllLinksUnvisited": {
+      "message": "Mark All Links Unvisited"
+   },
+   "markAllLinksUnvisitedResult": {
+      "message": "All links have been marked unvisited."
+   },
+   "markAllLinksVisited": {
+      "message": "Mark All Links Visited"
+   },
+   "markAllLinksVisitedResult": {
+      "message": "All links have been marked visited."
+   },
+   "maximumLength": {
+      "message": "Maximum Length"
+   },
+   "metaTag": {
+      "message": "meta tag"
+   },
+   "metaTags": {
+      "message": "Meta Tags"
+   },
+   "method": {
+      "message": "Method"
+   },
+   "miscellaneous": {
+      "message": "Miscellaneous"
+   },
+   "missingHeading": {
+      "message": "(Missing heading)"
+   },
+   "name": {
+      "message": "Name"
+   },
+   "nameCannotBeEmpty": {
+      "message": "The name cannot be empty."
+   },
+   "namePlaceholder": {
+      "message": "Enter the name"
+   },
+   "nextPosition": {
+      "message": "Next Position ="
+   },
+   "no": {
+      "message": "No"
+   },
+   "noHeadingText": {
+      "message": "(No heading text)"
+   },
+   "none": {
+      "message": "None"
+   },
+   "options": {
+      "message": "Options"
+   },
+   "optionsMenu": {
+      "message": "Options..."
+   },
+   "outline": {
+      "message": "Outline"
+   },
+   "outlineAbsolutePositionedElements": {
+      "message": "Outline Absolute Positioned Elements"
+   },
+   "outlineAllImages": {
+      "message": "Outline All Images"
+   },
+   "outlineBackgroundImages": {
+      "message": "Outline Background Images"
+   },
+   "outlineBlockLevelElements": {
+      "message": "Outline Block Level Elements"
+   },
+   "outlineDeprecatedElements": {
+      "message": "Outline Deprecated Elements"
+   },
+   "outlineExternalLinks": {
+      "message": "Outline External Links"
+   },
+   "outlineFixedPositionedElements": {
+      "message": "Outline Fixed Positioned Elements"
+   },
+   "outlineFloatedElements": {
+      "message": "Outline Floated Elements"
+   },
+   "outlineFormFieldsWithoutLabels": {
+      "message": "Outline Form Fields Without Labels"
+   },
+   "outlineFrames": {
+      "message": "Outline Frames"
+   },
+   "outlineHeadings": {
+      "message": "Outline Headings"
+   },
+   "outlineImagesWithAdjustedDimensions": {
+      "message": "Outline Images With Adjusted Dimensions"
+   },
+   "outlineImagesWithEmptyAltAttributes": {
+      "message": "Outline Images With Empty Alt Attributes"
+   },
+   "outlineImagesWithOversizedDimensions": {
+      "message": "Outline Images With Oversized Dimensions"
+   },
+   "outlineImagesWithoutAltAttributes": {
+      "message": "Outline Images Without Alt Attributes"
+   },
+   "outlineImagesWithoutDimensions": {
+      "message": "Outline Images Without Dimensions"
+   },
+   "outlineNonSecureElements": {
+      "message": "Outline Non-Secure Elements"
+   },
+   "outlineRelativePositionedElements": {
+      "message": "Outline Relative Positioned Elements"
+   },
+   "outlineTableCaptions": {
+      "message": "Outline Table Captions"
+   },
+   "outlineTableCells": {
+      "message": "Outline Table Cells"
+   },
+   "outlineTables": {
+      "message": "Outline Tables"
+   },
+   "password": {
+      "message": "Password"
+   },
+   "path": {
+      "message": "Path"
+   },
+   "pathCannotBeEmpty": {
+      "message": "The path cannot be empty."
+   },
+   "pathPlaceholder": {
+      "message": "Enter the path"
+   },
+   "populateEmailAddress": {
+      "message": "Email address to use for populating email form fields"
+   },
+   "populateFormFields": {
+      "message": "Populate Form Fields"
+   },
+   "populateFormFieldsMultipleResult": {
+      "message": "$count$ form fields populated.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "populateFormFieldsSingleResult": {
+      "message": "1 form field populated."
+   },
+   "position": {
+      "message": "Position"
+   },
+   "positionLabel": {
+      "message": "Position ="
+   },
+   "preview": {
+      "message": "Preview"
+   },
+   "previousPosition": {
+      "message": "Previous Position ="
+   },
+   "property": {
+      "message": "Property"
+   },
+   "reloadImages": {
+      "message": "Reload Images"
+   },
+   "reloadImagesResult": {
+      "message": "All images have been reloaded."
+   },
+   "reloadLayouts": {
+      "message": "Reload Layouts"
+   },
+   "reloadLinkedStyleSheets": {
+      "message": "Reload Linked Style Sheets"
+   },
+   "reloadLinkedStyleSheetsResult": {
+      "message": "All linked style sheets have been reloaded."
+   },
+   "removeFormValidation": {
+      "message": "Remove Form Validation"
+   },
+   "removeFormValidationMultipleResult": {
+      "message": "Removed validation from $count$ form fields.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "removeFormValidationSingleResult": {
+      "message": "Removed validation from 1 form field."
+   },
+   "removeMaximumLengths": {
+      "message": "Remove Maximum Lengths"
+   },
+   "removeMaximumLengthsMultipleResult": {
+      "message": "Removed maximum length from $count$ form fields.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "removeMaximumLengthsSingleResult": {
+      "message": "Removed maximum length from 1 form field."
+   },
+   "replaceImagesWithAltAttributes": {
+      "message": "Replace Images With Alt Attributes"
+   },
+   "resetDisableFeatures": {
+      "message": "Reset Disable Features"
+   },
+   "resetDisableFeaturesResult": {
+      "message": "All features disabled or enabled by Web Developer have been reset."
+   },
+   "resetPage": {
+      "message": "Reset Page"
+   },
+   "resize": {
+      "message": "Resize"
+   },
+   "resizeWindow": {
+      "message": "Resize Window"
+   },
+   "resizeWindowMenu": {
+      "message": "Resize Window..."
+   },
+   "resize_1_description": {
+      "message": "1024x768"
+   },
+   "responseHeaders": {
+      "message": "Response Headers"
+   },
+   "responsive": {
+      "message": "Responsive"
+   },
+   "responsiveLayouts": {
+      "message": "Responsive Layouts"
+   },
+   "responsive_layout_1_description": {
+      "message": "Mobile portrait"
+   },
+   "responsive_layout_2_description": {
+      "message": "Mobile landscape"
+   },
+   "responsive_layout_3_description": {
+      "message": "Small tablet portrait"
+   },
+   "responsive_layout_4_description": {
+      "message": "Small tablet landscape"
+   },
+   "responsive_layout_5_description": {
+      "message": "Tablet portrait"
+   },
+   "responsive_layout_6_description": {
+      "message": "Tablet landscape"
+   },
+   "ruler": {
+      "message": "Ruler"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "secure": {
+      "message": "Secure"
+   },
+   "secureCookie": {
+      "message": "Secure cookie"
+   },
+   "selectAnElementDisplayInformation": {
+      "message": "Select an element to display the information about it"
+   },
+   "selectedColor": {
+      "message": "Selected Color:"
+   },
+   "sessionCookie": {
+      "message": "Session cookie"
+   },
+   "showElementTagNames": {
+      "message": "Show Element Tag Names"
+   },
+   "size": {
+      "message": "Size"
+   },
+   "src": {
+      "message": "Src"
+   },
+   "startPositionX": {
+      "message": "Start Position: X ="
+   },
+   "syntaxHighlightPerformance": {
+      "message": "Note that turning on syntax highlighting can affect the performance of the browser."
+   },
+   "syntaxHighlightTheme": {
+      "message": "Syntax highlighting theme"
+   },
+   "syntaxHighlighting": {
+      "message": "Syntax Highlighting"
+   },
+   "text": {
+      "message": "Text"
+   },
+   "tool_1_description": {
+      "message": "Validate CSS"
+   },
+   "tool_2_description": {
+      "message": "Validate Feed"
+   },
+   "tool_3_description": {
+      "message": "Validate HTML"
+   },
+   "tool_4_description": {
+      "message": "Validate Accessibility"
+   },
+   "tool_5_description": {
+      "message": "Validate Links"
+   },
+   "tool_6_description": {
+      "message": "Validate Structured Data"
+   },
+   "tools": {
+      "message": "Tools"
+   },
+   "type": {
+      "message": "Type"
+   },
+   "uncheckAllCheckboxes": {
+      "message": "Uncheck All Checkboxes"
+   },
+   "uncheckAllCheckboxesMultipleResult": {
+      "message": "$count$ checkboxes unchecked.",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         }
+      }
+   },
+   "uncheckAllCheckboxesSingleResult": {
+      "message": "1 checkbox unchecked."
+   },
+   "undoBeautifyJavaScript": {
+      "message": "Undo beautify JavaScript"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "urlCannotBeEmpty": {
+      "message": "The URL cannot be empty."
+   },
+   "urlPlaceholder": {
+      "message": "Enter a URL"
+   },
+   "useBorderBoxModel": {
+      "message": "Use Border Box Model"
+   },
+   "validateLocalCSS": {
+      "message": "Validate Local CSS"
+   },
+   "validateLocalHTML": {
+      "message": "Validate Local HTML"
+   },
+   "value": {
+      "message": "Value"
+   },
+   "valuePlaceholder": {
+      "message": "Enter the value"
+   },
+   "version": {
+      "message": "Version"
+   },
+   "viewAnchorInformation": {
+      "message": "View Anchor Information"
+   },
+   "viewCSS": {
+      "message": "View CSS"
+   },
+   "viewColorInformation": {
+      "message": "View Color Information"
+   },
+   "viewCookieInformation": {
+      "message": "View Cookie Information"
+   },
+   "viewDocumentOutline": {
+      "message": "View Document Outline"
+   },
+   "viewFormInformation": {
+      "message": "View Form Information"
+   },
+   "viewImageInformation": {
+      "message": "View Image Information"
+   },
+   "viewJavaScript": {
+      "message": "View JavaScript"
+   },
+   "viewLinkInformation": {
+      "message": "View Link Information"
+   },
+   "viewMetaTagInformation": {
+      "message": "View Meta Tag Information"
+   },
+   "viewResponseHeaders": {
+      "message": "View Response Headers"
+   },
+   "viewResponsiveLayouts": {
+      "message": "View Responsive Layouts"
+   },
+   "viewSource": {
+      "message": "View Source"
+   },
+   "viewportDescription": {
+      "message": "Resize the viewport"
+   },
+   "width": {
+      "message": "Width"
+   },
+   "widthCannotBeEmpty": {
+      "message": "The width cannot be empty."
+   },
+   "widthNotValid": {
+      "message": "The width is not valid."
+   },
+   "widthPlaceholder": {
+      "message": "Enter the width in pixels"
+   },
+   "yLabel": {
+      "message": "Y ="
+   },
+   "yes": {
+      "message": "Yes"
+   }
+}

@@ -1,0 +1,46 @@
+{
+   "background": {
+      "page": "/background/background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "/common/images/logos/128.png",
+         "16": "/common/images/logos/16.png",
+         "24": "/common/images/logos/24.png",
+         "256": "/common/images/logos/256.png",
+         "32": "/common/images/logos/32.png",
+         "48": "/common/images/logos/48.png",
+         "512": "/common/images/logos/512.png",
+         "64": "/common/images/logos/64.png"
+      },
+      "default_popup": "/overlay/overlay.html",
+      "default_title": "__MSG_extensionName__"
+   },
+   "content_scripts": [ {
+      "js": [ "/content/content.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "default_locale": "zh_CN",
+   "description": "__MSG_extensionDescription__",
+   "homepage_url": "http://chrispederick.com/work/web-developer/",
+   "icons": {
+      "128": "/common/images/logos/128.png",
+      "16": "/common/images/logos/16.png",
+      "24": "/common/images/logos/24.png",
+      "256": "/common/images/logos/256.png",
+      "32": "/common/images/logos/32.png",
+      "48": "/common/images/logos/48.png",
+      "512": "/common/images/logos/512.png",
+      "64": "/common/images/logos/64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDqzooK0Nk6479vcXm/kYwHuAZ1FNqe+xQlSJLkRtZnXxxVuWcWJenL526c9PjW71/LgJA8AqtGS9MD59fT4LTfNY5yyTvX0yRFpd8aGADfVGDRPLp8qas+v5LIw2TaGF2Fn281yi5PnxTLUtWuscFfUNU95quxIwvPYkEjASnnNwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extensionName__",
+   "options_ui": {
+      "page": "/options/options.html"
+   },
+   "permissions": [ "browsingData", "clipboardWrite", "contentSettings", "cookies", "history", "storage", "tabs", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.5.4",
+   "web_accessible_resources": [ "*" ]
+}
