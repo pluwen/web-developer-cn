@@ -33,7 +33,7 @@
       "512": "/common/images/logos/512.png",
       "64": "/common/images/logos/64.png"
    },
-   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDqzooK0Nk6479vcXm/kYwHuAZ1FNqe+xQlSJLkRtZnXxxVuWcWJenL526c9PjW71/LgJA8AqtGS9MD59fT4LTfNY5yyTvX0yRFpd8aGADfVGDRPLp8qas+v5LIw2TaGF2Fn281yi5PnxTLUtWuscFfUNU95quxIwvPYkEjASnnNwIDAQAB",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDUwPdcBpbdHBuOplEg28cyhuBwp53/aCAQTD6dgpKU7iDeY/gDcyerhgmUvvDySdy+J4Ht/7GA9SVAC5IXPE6pfmCWOeyPYEkfZXLH2BgoDIyAUIvoKZiDJIexphLN11YcASiw76jMjbDFb7TKWkZjg+kLDsU4t4mT2I0uRgflpwIDAQAB",
    "manifest_version": 2,
    "name": "__MSG_extensionName__",
    "options_ui": {
